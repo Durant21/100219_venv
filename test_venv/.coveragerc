@@ -1,0 +1,3 @@
+[run]
+source = test_venv
+omit = test_venv/test*
